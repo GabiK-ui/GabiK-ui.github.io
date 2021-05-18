@@ -1,0 +1,68 @@
+body {
+	background-color: black;
+	font-family: times new roman;
+}
+header {
+	background-color: rgb(176, 196, 222);
+	width: 98.5%;
+	height: 200px;
+	color: black;
+	text-align: center;
+	float: left;
+	padding: 10px;  
+	border: 3px solid rgb(255, 132, 63);
+	margin: 5px;
+}
+.konflikt1 {
+	background-color: rgb(135, 206, 235);  
+	width: 31.5%;
+	height: 1470px;
+	color: black;
+	text-align: left;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	padding: 10px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+.konflikt2 {
+	background-color: rgb(135, 206, 235);  
+	width: 31.5%;
+	height: 1470px;
+	color: black;
+	text-align: left;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.konflikt3 {
+	background-color: rgb(135, 206, 235);  
+	width: 31.5%;
+	height: 1470px; 
+	color: black;
+	text-align: left;
+	border: 3px solid rgb(255, 132, 63);
+	float: right;
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+footer {
+	background-color: rgb(176, 196, 222);
+	width: 99%;
+	height: 50px;
+	color: black;
+	text-align: center;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	clear: both;
+	padding: 5px;
+	margin: 5px;
+}

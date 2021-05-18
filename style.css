@@ -1,0 +1,104 @@
+body {
+	background-color: black;
+	font-family: times new roman;
+}
+header {
+	background-color: rgb(176, 196, 222);
+	width: 98.5%;
+	height: 260px;
+	color: black;
+	text-align: center;
+	float: left;
+	padding: 10px;  
+	border: 3px solid rgb(255, 132, 63);
+	margin: 5px;
+}
+.opis {
+	background-color: rgb(135, 206, 235);  
+	width: 77.7%;
+	height: 440px: 
+	color: black;
+	text-align: left;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+nav {
+	background-color: rgb(173, 216, 230);
+	width: 18.4%;
+	height: 440px;
+	color: black;
+	text-align: left;
+	border: 3px solid rgb(255, 132, 63);
+	float: right;
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+.przyczyny {
+	background-color: rgb(175, 238, 238);  
+	width: 48.2%;
+	height: 400px: 
+	color: black;
+	text-align: center;
+	border: 3px solid rgb(255, 132, 63);
+	clear: both;
+	float: left;
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+.skutki {
+	background-color: rgb(175, 238, 238);  
+	width: 48.2%;
+	height: 400px: 
+	color: black;
+	text-align: center;
+	border: 3px solid rgb(255, 132, 63);
+	float: right;
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+aside {
+	background-color: rgb(135, 206, 250);
+	width: 98.5%;
+	height: 220px;
+	color: black;
+	text-align: center;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	clear: both;
+	padding: 10px;
+	margin: 5px;
+}
+section {
+	background-color: rgb(173, 216, 230);
+	width: 98.5%;
+	height: 100%;
+	color: black;
+	text-align: center;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	clear: both;
+	padding: 10px;
+	margin: 5px;
+}
+footer {
+	background-color: rgb(176, 196, 222);
+	width: 99%;
+	height: 50px;
+	color: black;
+	text-align: center;
+	border: 3px solid rgb(255, 132, 63);
+	float: left;
+	clear: both;
+	padding: 5px;
+	margin: 5px;
+}
